@@ -15,8 +15,7 @@ class ShelfChanger extends Component {
 
     for (let shelf of books ) {
       if (shelf.id === book.id)  {
-        currentShelf = shelf.shelf
-        break
+          currentShelf = shelf.shelf
       }
     }
 

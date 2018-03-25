@@ -61,7 +61,7 @@ class Search extends Component {
                 </ol>
               </div>
             )}
-            { searchResults  && (<h3 className="searchResults">No results found!!</h3> )}
+            {(<h3 className="searchResults">No results found!!</h3> )}
           </div>
         </div>
       )}
