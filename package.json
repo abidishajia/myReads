@@ -14,9 +14,7 @@
     "react-text-collapse": "^0.4.3",
     "react-truncate": "^2.3.0",
     "rxjs": "^5.5.7",
-    "sort-by": "^1.2.0"
-  },
-  "devDependencies": {
+    "sort-by": "^1.2.0",
     "react-scripts": "0.9.5"
   },
   "scripts": {
